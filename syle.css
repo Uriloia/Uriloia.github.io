@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: yellow
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    width: 300px;
+    
+
+
+
+}
+
+.productos header {
+    position: absolute;
+    top: 10.5%;
+    right: 15%;
+
+}
+
+.header-nav{
+    position: absolute;
+    right: 4%;
+    top: 10%;
+}
+
+.opiniones{
+    position: absolute;
+    right: 23.15%;
+    top: 10.5%;
+}
+
+.footer-nav ul {
+    list-style: none;
+}
+
+.footer-nav h2 {
+    margin-left: 5%;
+}
